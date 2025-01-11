@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@authenio/samlify-node-xmllint": "^2.0.0",
     "directus": "^11.3.5",
     "mysql2": "^3.12.0"
   }
